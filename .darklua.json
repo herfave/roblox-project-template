@@ -11,10 +11,13 @@
                 "name": "path",
                 "sources": {
                     "@Packages": "Packages/",
+                    "@DevPackages": "ServerPackages/",
                     "@Client": "src/Client/",
                     "@Controllers": "src/Client/Controllers/",
                     "@Components": "src/Client/UI/Components/",
                     "@Hooks": "src/Client/UI/Hooks/",
+                    "@Providers": "src/Client/UI/Providers/",
+                    "@Screens": "src/Client/UI/Screens/",
                     "@Common": "src/Common/",
                     "@Server": "src/Server/",
                     "@Services": "src/Server/Services/"
